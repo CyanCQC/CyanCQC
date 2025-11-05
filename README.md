@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-whoami:
 - 📕 Undergraduate student in UESTC
-- 🧠 Major in Artificial Intelligence
-- 🔬 Working on computer vision (specifically scene recognition)
+- 🧠 Majoring in Artificial Intelligence
+- 🔬 Currently working on computer vision (specifically scene recognition)
+- 🟢 Currently a green hand in contributions...
 - 🏓 Table tennis enthusiast (Highest all-time score on ChinaTT: **1681**)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CyanCQC)](https://github.com/anuraghazra/github-readme-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=CyanCQC&show_icons=true&theme=radical)
 <!--
 **CyanCQC/CyanCQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
