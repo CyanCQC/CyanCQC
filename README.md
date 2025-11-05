@@ -6,6 +6,8 @@
 - 🟢 Currently a green hand in contributions...
 - 🏓 Table tennis enthusiast (Highest all-time score on ChinaTT: **1681**)
 
+📧 Reach me at [cyanwang234@gmail.com](mail.google.com)
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=CyanCQC&show_icons=true&theme=radical)
 <!--
 **CyanCQC/CyanCQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
