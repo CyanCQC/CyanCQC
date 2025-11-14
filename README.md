@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📕 Undergraduate student in UESTC
+- 📕 Student in UESTC
 - 🧠 Majoring in Artificial Intelligence
 - 🔬 Currently working on computer vision (specifically scene recognition)
 - 🟢 Currently a green hand in contributions...
