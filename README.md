@@ -18,7 +18,7 @@ Shuaiyu Liu, Qiyao Shen, **Yunxi Wang**, Yazhou Ren\*, Guoyin Wang
 ## 📫 Contact Me
 📧 Reach me at [cyanwang234@gmail.com](mail.google.com)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyanCQC)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyanCQC&theme=github)
 <!--
 **CyanCQC/CyanCQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
