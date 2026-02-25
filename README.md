@@ -15,9 +15,10 @@ Hi there 👋
 ### Fusion of granular-ball visual spatial representations for enhanced facial expression recognition (IJCAI 2025)
 Shuaiyu Liu, Qiyao Shen, **Yunxi Wang**, Yazhou Ren\*, Guoyin Wang
 
+## 📫 Contact Me
 📧 Reach me at [cyanwang234@gmail.com](mail.google.com)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=CyanCQC&show_icons=true&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyanCQC)
 <!--
 **CyanCQC/CyanCQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
