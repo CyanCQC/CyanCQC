@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="13A5E1B8" src="https://github.com/user-attachments/assets/4aef6831-fa9f-4005-b46f-866d728772de" />## Hi there 👋
+Hi there 👋
 
 - 📕 Student in UESTC
 - 🧠 Majoring in Artificial Intelligence
